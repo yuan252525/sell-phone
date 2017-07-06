@@ -1,5 +1,5 @@
 <template>
-  <div>I am seller</div>
+  <div>I am seller test upload git</div>
 </template>
 
 <script type="text/ecmascript-6">
