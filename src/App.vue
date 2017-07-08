@@ -3,7 +3,7 @@
     <v-header :seller="seller"></v-header>
     <div class="tab border-1px">
       <div class="tab-item">
-        <a v-link="{path:'/goods'}">商品</a>
+        <a v-link="{path:'/login'}">商品</a>
       </div>
       <div class="tab-item">
         <a v-link="{path:'/ratings'}">评论</a>
