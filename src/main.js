@@ -1,11 +1,11 @@
-import Vue from 'vue'
-import VueResource from 'vue-resource'
-import VueRouter from 'vue-router'
-import App from './App'
-import goods from 'components/goods/goods.vue'
-import ratings from 'components/ratings/ratings.vue'
-import seller from 'components/seller/seller.vue'
-import login from 'components/seller/seller.vue'
+import Vue from 'vue';
+import VueResource from 'vue-resource';
+import VueRouter from 'vue-router';
+import App from './App';
+import goods from 'components/goods/goods.vue';
+import ratings from 'components/ratings/ratings.vue';
+import seller from 'components/seller/seller.vue';
+import login from 'components/seller/seller.vue';
 
 
 import './common/stylus/index.styl'
